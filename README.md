@@ -380,6 +380,11 @@ Here are the links to all major types of  [consensus algorithms](https://medium.
  [CBC Casper](https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf)  by Vlad Zamfir, Nate Rush, Aditya Asgaonkar, Georgia Piliouras ( [ipfs](https://gateway.ipfs.io/ipfs/QmVyjCpoW3gTxhJmRUMuwgn7ZVBecHFawdgYVZas3XwCki) )
 * Describes a family of consensus protocols that are asynchronously safe and BFT. [2018]
 
+
+ [SKALE Consensus](https://github.com/skalenetwork/skale-consensus) by Konstantin Kladko and others( [ipfs](https://medium.com/skale/skale-consensus-c90de0b61a4c) )
+* Describes SKALE Consensus and ABBA (Asynchonous Binary Byzatine Agreement). [2019]
+
+
 ## State Machines
 Here are the links to all major types of  [state machines](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/state-machines/MIT6_01SCS11_chap04.pdf) :
 
