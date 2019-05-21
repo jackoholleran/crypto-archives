@@ -480,6 +480,10 @@ Here are the links to all major types of  [state machines](https://ocw.mit.edu/c
 * A summary of state channels, Plasma, and Truebit. [2018]
 
 
+[Layer 2: The Execution Layer: A look at Sidechains, Elastic Sidechains, Plasma and State Channels](https://medium.com/skale/layer-2-the-execution-layer-21eaca149a8) by Jack O'Holleran with contributions from Eric Olszewski, Chadwick Strange, and others
+* A look at layer 2 scaling solutions and where they have the most impact [2019]
+
+
 [The Arwen Trading Protocols](https://www.arwen.io/whitepaper.pdf) by Ethan Heilman, Sebastien Lipmann, Sharon Goldberg ( [ipfs](https://gateway.ipfs.io/ipfs/QmSFPkyEBfCkGot4LK5a6Dk9fQaNCmg7drzPVGyKnBJKpK) )
 * A new protocol that allows traders to securely trade cryptocurrencies at a centralized exchange, without ceding custody of their coins to the exchange. [2019]
 
